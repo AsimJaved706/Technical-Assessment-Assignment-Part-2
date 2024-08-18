@@ -1,8 +1,8 @@
-1- Composer Install
-2- Add db credentials
-3-Php artisan key:generate
-4-php artisan migrate
-5-php artisan db:seed
+1- Composer Install ,
+2- Add db credentials,
+3-Php artisan key:generate,
+4-php artisan migrate,
+5-php artisan db:seed,
 
 
 ![1](https://github.com/user-attachments/assets/894f9d92-ee01-428e-991a-ca9edfe2b348)
